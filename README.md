@@ -30,6 +30,13 @@ python -m pip install -r requirements.txt
 For more information, see project [Wiki](https://github.com/nokia/5GDrones-data-collector/wiki)
 or [docs](https://github.com/nokia/5GDrones-data-collector/blob/main/docs) -folder at the project root.
 
+
+##https://5gdrones.eu/ 
+
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No857031
+https://europa.eu/european-union/sites/europaeu/files/docs/body/flag_yellow_low.jpg
+
+
 ## License
 
 5G!Drones Datacollector is licensed under Apache 2.0. For more information, see the 
