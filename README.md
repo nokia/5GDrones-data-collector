@@ -27,7 +27,9 @@ python -m pip install -r requirements.txt
 
 ## How to use
 
-For more information, see project [Wiki](https://github.com/nokia/5GDrones-data-collector/wiki).
+For more information, see project [Wiki](https://github.com/nokia/5GDrones-data-collector/wiki)
+or [docs](https://github.com/nokia/5GDrones-data-collector/blob/main/docs) -folder at the project root.
+
 ## License
 
 5G!Drones Datacollector is licensed under Apache 2.0. For more information, see the 
