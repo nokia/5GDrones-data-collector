@@ -31,12 +31,6 @@ For more information, see project [Wiki](https://github.com/nokia/5GDrones-data-
 or [docs](https://github.com/nokia/5GDrones-data-collector/blob/main/docs) -folder at the project root.
 
 
-##https://5gdrones.eu/ 
-
-This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No857031
-https://europa.eu/european-union/sites/europaeu/files/docs/body/flag_yellow_low.jpg
-
-
 ## License
 
 5G!Drones Datacollector is licensed under Apache 2.0. For more information, see the 
@@ -55,3 +49,7 @@ finalization, documentation, integration and releasing)
 Joonas Pulkkinen ([joopulkkin](https://github.com/joopulkkin)) - Datacollector development  
 Riikka Valkama ([rvalkama](https://github.com/rvalkama)) - Datacollector development  
 Laura Haapaniemi ([Lhaapani](https://github.com/Lhaapani)) - Datacollector development  
+
+## 5G!Drones (https://5gdrones.eu/)
+
+This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No857031
