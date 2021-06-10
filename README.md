@@ -40,7 +40,7 @@ or [docs](https://github.com/nokia/5GDrones-data-collector/blob/main/docs) -fold
 
 Special thanks to the original authors of the work that was used as a basis for 5G!Drones Datacollector:  
 Ilari Iso-Junno ([iisojunn](https://github.com/iisojunn))  
-Sami Harju ([sharju](https://github.com/sharju))  
+Sami Harju ([samharju](https://github.com/samharju))  
 Juha Vaaraniemi  
 
 Authors of 5G!Drones Datacollector:  
